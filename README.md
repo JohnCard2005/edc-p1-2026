@@ -70,5 +70,5 @@ Lean	Tipo indutivo recursivo
 - Robert (Crystal):
 - João (Java): https://github.com/JohnCard2005/edc-p1-2026-projeto-java
 - Rafael (Nim): https://github.com/Pollux10/Trabalho-P1---Estrutura-de-Dados---Rafael-Souza
-- Alberto (Julia):
+- Alberto (Julia): https://github.com/albertoalexandregta-cmyk/edc-p1-2026-projeto-julia
 - Caio (Lean): https://github.com/vieira20101-dotcom/TRABALHO-ESTRUTARURA-DE-DADOS-CAIO-LOPES-
