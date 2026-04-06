@@ -67,7 +67,7 @@ Lean	Tipo indutivo recursivo
 
 - Mahgid (Elixir):
 - Samuel (Rust): https://github.com/S4MUE11/Trabalho-P1---Estrutura-de-Dados---Samuel-Medeiros
-- Robert (Crystal):
+- Robert (Crystal): https://github.com/Grande051/edc-p1-2026
 - João (Java): https://github.com/JohnCard2005/edc-p1-2026-projeto-java
 - Rafael (Nim): https://github.com/Pollux10/Trabalho-P1---Estrutura-de-Dados---Rafael-Souza
 - Alberto (Julia): https://github.com/albertoalexandregta-cmyk/edc-p1-2026-projeto-julia
