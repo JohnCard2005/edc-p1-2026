@@ -66,6 +66,7 @@ Lean	Tipo indutivo recursivo
 ## Repositórios dos alunos
 
 - Mahgid (Elixir):
+https://github.com/Mahgid1/Trabalho-P1---Estrutura-de-Dados---Mhagid-Thome
 - Samuel (Rust): https://github.com/S4MUE11/Trabalho-P1---Estrutura-de-Dados---Samuel-Medeiros
 - Robert (Crystal): https://github.com/Grande051/edc-p1-2026
 - João (Java): https://github.com/JohnCard2005/edc-p1-2026-projeto-java
