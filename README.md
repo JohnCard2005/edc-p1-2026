@@ -5,3 +5,4 @@
 ## Repositórios dos alunos
 
 - João (Java): https://github.com/JohnCard2005/edc-p1-2026-projeto-java
+Youtube: https://youtu.be/hMytOK8OnRY
